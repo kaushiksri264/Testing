@@ -15,6 +15,8 @@ public class SeleniumDemo {
 		driver.get("https://rahulshettyacademy.com/");
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getCurrentUrl());
+		System.out.println("Updated Project to git");
+		System.out.println("Switched to QA Branch");
 		driver.close();
 		
 	}
