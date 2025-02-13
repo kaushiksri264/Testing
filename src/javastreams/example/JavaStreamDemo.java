@@ -98,6 +98,8 @@ public class JavaStreamDemo {
     	List<Integer> number = num.stream().distinct().sorted().collect(Collectors.toList());
     	
     	System.out.println(number.get(2));
+    	
+    	System.out.println("Test is Updated in clone Project in QA");
     }
     
 }
