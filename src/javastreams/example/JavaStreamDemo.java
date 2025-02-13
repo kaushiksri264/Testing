@@ -99,7 +99,7 @@ public class JavaStreamDemo {
     	
     	System.out.println(number.get(2));
     	
-    	System.out.println("Test is Updated in clone Project in QA");
+    	System.out.println("Test is Updated in clone Project in from QA");
     }
     
 }
